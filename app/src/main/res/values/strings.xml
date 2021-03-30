@@ -9,5 +9,7 @@
     <string name="usuario">Usuario</string>
     <string name="senha">Senha</string>
     <string name="login">Login</string>
+    <string name="scroll">ScrollView</string>
+    <string name="btTodos">TODOS</string>
 
 </resources>
